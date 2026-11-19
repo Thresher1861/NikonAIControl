@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+id btnAiApply
+id btnAperture
+id btnGallery
+id btnGrid
+id btnIso
+id btnModeAi
+id btnModeDouble
+id btnModeNormal
+id btnModeSplit
+id btnPeaking
+id btnShutter
+id btnShutterSpeed
+id btnWb
+id btnZebra
+id etAiPrompt
+id ivLiveView
+id ivOverlay
+id tvStatus
+layout activity_main
+string app_name
+xml usb_device_filter

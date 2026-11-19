@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ru.dimar.nikonaicontrol.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "ru.dimar.nikonaicontrol.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "ru.dimar.nikonaicontrol.app-merged_res-31:/xml_usb_device_filter.xml.flat",
+        "source": "ru.dimar.nikonaicontrol.app-main-33:/xml/usb_device_filter.xml"
+    }
+]

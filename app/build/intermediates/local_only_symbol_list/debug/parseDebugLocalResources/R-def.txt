@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+id btnAf
+id btnAi
+id btnMenu
+id btnShutter
+id btnVideo
+id focusView
+id ivGhost
+id ivLiveView
+id rootLayout
+id tvStatus
+id wheelAperture
+id wheelIso
+id wheelShutter
+id zebraView
+layout activity_main
+string app_name
+xml usb_device_filter
